@@ -1,0 +1,13 @@
+// Author      : meli
+// Version     : mia
+// Copyright   : Your copyright notice
+// Description : Hello World C++ con eclipse para el tp 0
+//
+
+#include <iostream>
+using namespace std;
+
+int main() {
+	cout << "hola melina" << endl; // prints hola melina
+	return 0;
+}
